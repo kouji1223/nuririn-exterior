@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Project base styles (moved from index.html) */
+body {
+  background-color: #ffffff;
+  color: #1f2937;
+}
+
+/* You can add global component styles below */
