@@ -6,6 +6,8 @@
 
 This contains everything you need to run your app locally.
 
+**See `RUNNING.md` for full local run, build, preview instructions and `.env.local` guidance.**
+
 View your app in AI Studio: https://ai.studio/apps/temp/1
 
 ## Run Locally
